@@ -12,7 +12,7 @@
  
  🔭 I’m currently a JobSeeker
  
- 🌱 I’m currently learning **C#,wordpress**
+ 🌱 I’m currently learning **Cloud Engineering**
 
 💬 Ask me about **Javascript, PHP, HTML, Css... or anything [here](https://www.linkedin.com/in/khaled-alowd/)**
 
